@@ -1,3 +1,3 @@
 # numbers
 
-A description of this package.
+This library checks if a number is prime or not.
